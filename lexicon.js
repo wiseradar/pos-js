@@ -297830,5 +297830,56 @@ module.exports = {
     ],
     "Android": [
         "NNP"
-    ]
+    ],
+    "Google": [
+        "NNP"
+    ],
+    "Apple": [
+        "NNP"
+    ],
+    "LinkedIn": [
+        "NNP"
+    ],
+    "Samsung": [
+        "NNP"
+    ],
+    "IBM": [
+        "NNP"
+    ],
+    "Amazon": [
+        "NNP"
+    ],
+    "Dell": [
+        "NNP"
+    ],
+    "HP": [
+        "NNP"
+    ],
+    "Snapchat": [
+        "NNP"
+    ],
+    "Instagram": [
+        "NNP"
+    ],
+    "Oracle": [
+        "NNP"
+    ],
+    "Youtube": [
+        "NNP"
+    ],
+    "iPhone": [
+        "NNP"
+    ],
+    "Gmail": [
+        "NNP"
+    ],
+    "Pinterest": [
+        "NNP"
+    ],
+    "about.me": [
+        "NNP"
+    ],
+    "37Signals": [
+        "NNP"
+    ],
 };
